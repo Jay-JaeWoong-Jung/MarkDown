@@ -23,7 +23,7 @@ public class RobotTemplate extends SimpleRobot {
      * This function is called once each time the robot enters autonomous mode.
      */
     public void autonomous() {
-       
+       //.....some more code
            
 // no not what to do with this so I am commeting meaningless comments for comment sake ersfesfasf
     }
